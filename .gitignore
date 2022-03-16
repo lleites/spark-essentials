@@ -204,3 +204,4 @@ spark-warehouse/
 
 .metals
 .bloop
+.bsp
